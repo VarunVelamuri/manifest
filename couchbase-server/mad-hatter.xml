@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-manifest>
+<manifest>
 <remote fetch="git://github.com/blevesearch/" name="blevesearch"/>
 <remote fetch="git://github.com/couchbase/" name="couchbase" review="review.couchbase.org"/>
 <remote fetch="ssh://git@github.com/couchbase/" name="couchbase-priv" review="review.couchbase.org"/>
